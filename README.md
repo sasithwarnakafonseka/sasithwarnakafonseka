@@ -7,6 +7,8 @@
 
 ## 🌐 Contact Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sasithwarnak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasith-warnaka)           
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="sasith-warnaka" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/sasith-warnaka?trk=profile-badge">Sasith Warnaka</a></div>
+              
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ---
 [![](https://visitcount.itsvg.in/api?id=sasithwarnakafonseka&icon=0&color=0)](https://visitcount.itsvg.in)
